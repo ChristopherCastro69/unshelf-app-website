@@ -8,7 +8,12 @@ const Hero = () => {
         <h1 className="h1 hero-title">
           The Ultimate Food Saver for a Sustainable Future
         </h1>
-        <a href="">
+        <a
+          href="https://github.com/ChristopherCastro69/UnShelf/blob/master/apk/UNSHELF.zip"
+          download="UNSHELF.zip"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button className="btn-primary">Download now</button>
         </a>
       </div>
