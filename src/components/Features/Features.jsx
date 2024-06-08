@@ -4,7 +4,7 @@ import featurebanner from "./../../assets/feature-banner.png";
 import demo2 from "./../../assets/Picture7.png";
 
 const Features = () => {
-  //test
+  //test123
   return (
     <section className="features" id="features">
       <ul className="features-list">
