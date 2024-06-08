@@ -9,8 +9,10 @@ const Hero = () => {
           The Ultimate Food Saver for a Sustainable Future
         </h1>
         <a
-          href="https://github.com/ChristopherCastro69/unshelf-app-website/blob/unshelf/src/assets/apk/UNSHELF.zip"
+          href="https://github.com/ChristopherCastro69/UnShelf/blob/master/apk/UNSHELF.zip"
           download="UNSHELF.zip"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <button className="btn-primary">Download now</button>
         </a>
